@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\splee\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\splee\\my project (1)\\assets\\scripts\\enemyspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\splee\\My project (1)\\assets\\scripts\\unitspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\splee\\My project (1)\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\splee\\My project (1)\\assets\\scripts\\enemyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\splee\\My project (1)\\assets\\scripts\\unitscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawnerScript.cs",
+              "DocumentMoniker": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\EnemySpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawnerScript.cs",
+              "ToolTip": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\EnemySpawnerScript.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawnerScript.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:04:03.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyScript.cs",
+              "DocumentMoniker": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\EnemyScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyScript.cs",
+              "ToolTip": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\EnemyScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyScript.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:03:57.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitSpawnerScript.cs",
+              "DocumentMoniker": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\UnitSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitSpawnerScript.cs",
+              "ToolTip": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\UnitSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitSpawnerScript.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:17:40.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitScript.cs",
+              "DocumentMoniker": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\UnitScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitScript.cs",
+              "ToolTip": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\UnitScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitScript.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:13:26.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\splee\\My project (1)\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:13:19.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

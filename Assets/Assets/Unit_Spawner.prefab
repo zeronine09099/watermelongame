@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5817851111123323955
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2270054616835587049}
+  - component: {fileID: 2916830849973863580}
+  m_Layer: 5
+  m_Name: Unit_Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2270054616835587049
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5817851111123323955}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 550, y: 1700}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2916830849973863580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5817851111123323955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0df08e57ff9894695c9ebd48311d99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UnitSpawnerScript
+  previewObjects:
+  - {fileID: 8931157008551623678, guid: 6c414e502c02405469e5c825c5966346, type: 3}
+  - {fileID: 9009484238312265058, guid: 94a685ded1d41b6439c69cc684bed2e4, type: 3}
+  - {fileID: 7299036099008324268, guid: a45a6cf5dea98ff44b72a94ee4f5e5cc, type: 3}
+  - {fileID: 4359934006193410326, guid: 54dfe12b98fc867428cf86919163a6c0, type: 3}
+  - {fileID: 3954492684339227476, guid: e2a288161da0a734ba3b11fc0d21354a, type: 3}
+  objects:
+  - {fileID: 4920265781337184098, guid: 906017d32a9c4ea4cbb1fff7e5099003, type: 3}
+  - {fileID: 4314936259559044260, guid: 78e2cb31b96122b4d9cc9dbed6acf622, type: 3}
+  - {fileID: 5252542640819942375, guid: 5cf7a33b3576ffe4494f32d43c621df8, type: 3}
+  - {fileID: 1861594082986094874, guid: 24bcf9031d24c8f4d8f5e2509c2916ef, type: 3}
+  - {fileID: 6114538617450116050, guid: c9a3f96360d8ae34ea4759032af27144, type: 3}
+  - {fileID: 4158660033402694968, guid: 839d411e0a28d0e42b8dfa9fc1190dde, type: 3}
+  - {fileID: 2949574162821133272, guid: ee623240f9c0c0845a9f9492bd58abf9, type: 3}
+  - {fileID: 6778990409783863616, guid: 0f5098a8399c1f54dbc7be0e2f7f23fc, type: 3}
+  - {fileID: 7413962430088714578, guid: bc1b4e7b4d7e1fe4a85cf1f642abb26e, type: 3}
+  - {fileID: 3579622093679161683, guid: 1c881945e88c9114fa66c1ae330f7b44, type: 3}
+  - {fileID: 5239775902081650111, guid: b24aa8d64fd13f14d82b5ad9ee8bd169, type: 3}
+  isReady: 1
+  rand: 5
+  idNum: 9
